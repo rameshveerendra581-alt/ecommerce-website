@@ -43,33 +43,7 @@ jQuery
 
 VS Code
 
-Live Server
 
-📂 Project Structure
-ecommerce-website/
-│
-├── index.html
-├── products.html
-├── product-view.html
-├── category.html
-├── cart.html
-├── checkout.html
-├── order-confirmation.html
-├── about.html
-├── contact.html
-├── search.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   ├── data.js
-│   ├── main.js
-│   ├── cart.js
-│   ├── search.js
-│   └── validation.js
-│
-└── images/
 
 ▶️ How to Run the Project
 
